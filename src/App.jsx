@@ -12,6 +12,7 @@ const weaponListAr = {
     "HVK-30",
     "KN-44",
     "BAL-27",
+    "LACHMAN",
     "BP-50",
     "AK-47",
     "TYPE-19",
