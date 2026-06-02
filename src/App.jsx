@@ -88,7 +88,7 @@ const weaponListSG = {
 };
 
 const weaponListMM = {
-  list: ["M1 Garand", "KILO BOLT", "MK2", "SKS", "SP-R"],
+  list: ["S0-14","M1 Garand", "KILO BOLT", "MK2", "SKS", "SP-R"],
   type: "MM",
   split: false,
 };
