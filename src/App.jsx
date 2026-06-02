@@ -11,11 +11,16 @@ const weaponListAr = {
     "EM2",
     "HVK-30",
     "KN-44",
+    "BAL-27",
     "BP-50",
     "AK-47",
+    "TYPE-19",
     "AK-117",
+    "XM4",
     "ICR-1",
     "ASM-10",
+    "AS VAL",
+    "AMAX",
     "MADDOX",
     "BK-57",
     "DR-H",
@@ -40,6 +45,10 @@ const weaponListAr = {
 
 const weaponListSmg = {
   list: [
+    "USS",
+    "VMP",
+    "STEN",
+    "LC10",
     "AGR 556",
     "CBR4",
     "CHICOM",
@@ -64,6 +73,7 @@ const weaponListSmg = {
     "RUS-79U",
     "STRIKER 45",
     "SWITCHBLADE",
+    "TEC-9",
   ],
   type: "SMG",
   split: true,
@@ -76,13 +86,13 @@ const weaponListSG = {
 };
 
 const weaponListMM = {
-  list: ["KILO BOLT", "MK2", "SKS", "SP-R"],
+  list: ["M1 Garand", "KILO BOLT", "MK2", "SKS", "SP-R"],
   type: "MM",
   split: false,
 };
 
 const weaponListSR = {
-  list: ["DL Q33", "LOCUS", "LW3-TUNDRA"],
+  list: ["DL Q33", "LOCUS", "LW3-TUNDRA", "XPR", "OUTLAW"],
   type: "SR",
   split: false,
 };
