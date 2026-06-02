@@ -13,6 +13,7 @@ const weaponListAr = {
     "KN-44",
     "BAL-27",
     "LACHMAN",
+    "RAM-7",
     "BP-50",
     "AK-47",
     "TYPE-19",
@@ -65,7 +66,7 @@ const weaponListSmg = {
     "MSMC",
     "MX-9",
     "OTS 9",
-    "PDW57",
+    "PDW-57",
     "PP19-BIZON",
     "PPSH-41",
     "QQ9",
@@ -81,7 +82,7 @@ const weaponListSmg = {
 };
 
 const weaponListSG = {
-  list: ["KRM", "ARGUS", "STRIKER"],
+  list: ["KRM",HS0405, "ARGUS", "STRIKER"],
   type: "SG",
   split: false,
 };
