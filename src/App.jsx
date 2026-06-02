@@ -82,7 +82,7 @@ const weaponListSmg = {
 };
 
 const weaponListSG = {
-  list: ["KRM",HS0405, "ARGUS", "STRIKER"],
+  list: ["KRM","HS0405", "ARGUS", "STRIKER"],
   type: "SG",
   split: false,
 };
