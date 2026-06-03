@@ -5,6 +5,7 @@ import Header from "./components/Header.jsx";
 import Weapons from "./components/Weapons.jsx";
 import Lightbox, {functionTest} from "./components/Lightbox.jsx";
 
+
 const weaponListAr = {
   list: [
     "Peacekeeper",

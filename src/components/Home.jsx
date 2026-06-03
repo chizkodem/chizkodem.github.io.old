@@ -1,4 +1,4 @@
-import {useEffect, useState} from "react";
+import {useEffect} from "react";
 import Typed from "typed.js";
 import TypingEffect from "./TypingEffect";
 
@@ -51,6 +51,7 @@ const Home = () => {
               href="https://discord.gg/DcdT8DZfsD"
               target="_blank"
               id="home-left-btn"
+              rel="noreferrer"
             >
               Join DC
             </a>
@@ -58,6 +59,7 @@ const Home = () => {
               href="https://www.facebook.com/jozephjrperez"
               target="_blank"
               id="home-right-btn"
+              rel="noreferrer"
             >
               Add me
             </a>
