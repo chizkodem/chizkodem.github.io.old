@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb549e37.css",
-    "main.js": "/static/js/main.553b0126.js",
-    "static/js/453.0b9f714d.chunk.js": "/static/js/453.0b9f714d.chunk.js",
-    "static/media/background.jpg": "/static/media/background.2a8a373d70ac06a27b26.jpg",
-    "static/media/CalamityRegular.otf": "/static/media/CalamityRegular.abe901c1019ce0156bf6.otf",
-    "index.html": "/index.html",
-    "main.fb549e37.css.map": "/static/css/main.fb549e37.css.map",
-    "main.553b0126.js.map": "/static/js/main.553b0126.js.map",
-    "453.0b9f714d.chunk.js.map": "/static/js/453.0b9f714d.chunk.js.map"
+    "main.css": "/chizkodem.github.io.old/static/css/main.d6f9c723.css",
+    "main.js": "/chizkodem.github.io.old/static/js/main.1fa233e3.js",
+    "static/js/453.0b9f714d.chunk.js": "/chizkodem.github.io.old/static/js/453.0b9f714d.chunk.js",
+    "static/media/background.jpg": "/chizkodem.github.io.old/static/media/background.2a8a373d70ac06a27b26.jpg",
+    "static/media/CalamityRegular.otf": "/chizkodem.github.io.old/static/media/CalamityRegular.abe901c1019ce0156bf6.otf",
+    "index.html": "/chizkodem.github.io.old/index.html",
+    "main.d6f9c723.css.map": "/chizkodem.github.io.old/static/css/main.d6f9c723.css.map",
+    "main.1fa233e3.js.map": "/chizkodem.github.io.old/static/js/main.1fa233e3.js.map",
+    "453.0b9f714d.chunk.js.map": "/chizkodem.github.io.old/static/js/453.0b9f714d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb549e37.css",
-    "static/js/main.553b0126.js"
+    "static/css/main.d6f9c723.css",
+    "static/js/main.1fa233e3.js"
   ]
 }
